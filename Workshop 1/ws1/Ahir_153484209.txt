@@ -1,0 +1,30 @@
+/**********************************************
+Workshop 1
+Course: JAC444 - Fall Semester 2022
+Last Name: Ahir Ahir
+First Name: Devang
+ID: 153484209
+Section: NCC 
+This assignment represents my own work in accordance with Seneca Academic Policy.
+Signature
+Date:<submission date>
+**********************************************/
+
+
+TASK 1
+For task 1, as there was a 2 dimension array, I used 2 for loops, one for row and other for the column. So each time I had
+to do something with that array, 2 ofr loops were used. As we needed to find the maximum number in the array, I created a method name
+MaxValue. This method was created just to find the maximum number. I did this by using 2 for loops as I mentioned before. For for loop 
+will go through the loops and the secod for loop will go to each element of columns. It will have an If condition to compare which one is 
+greater than other and it will return the number as the maximum number. i created a second method which will tell me the position of that
+maximum number we found in the first method. Than in the main method, I prompted the user to put a value for  row and a column. And I put
+the method after the user prompt code. With this I was able to finish the task 1.
+
+
+TASK 2
+For task 2, a radom function was needed in order to create a radommiser for the dices. I imported the random class from the java util 
+library and assigned it to both of the dice variable and added 1 to both of them, as random function starts with 0 adn bound it to 6. 
+This will create the randomness the dice have in real life. Than I added both of the dices and applied a condition in a while loop. So 
+I set a condition as we were asked, with this the program will keep running until the condition is met. And that is how task 2 was made.
+
+

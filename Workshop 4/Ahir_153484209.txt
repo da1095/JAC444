@@ -1,0 +1,17 @@
+/**********************************************
+Workshop #
+Course:<JAC44> - Semester
+Last Name:<Ahir Ahir>
+First Name:<Devang Ramubhai>
+ID:<153484209>
+Section:<NCC>
+This assignment represents my own work in accordance with Seneca Academic Policy.
+Signature
+Date:<submission date>
+**********************************************/
+
+For this workshop, I am using the in built libraries to read a file and then to characters so that the progamm can compare and be functional. For task 1, we have to take a single letter
+user input and compare it to the word from the textfile. For that, I used a for loop so the program will compare the whole sentence, letter by letter, with the user input. If it is wrong 
+then the program will display a message saying its not a match or it is not correct. For the task2, instead of taking a user input, this program will just run by itself and will count
+the occurance of each and every letter both upper case and lower case. And it will show the occurance of each letter. The user will type the name of the file and than the program will 
+check if the file exist and if it does then the whole sequence will run.

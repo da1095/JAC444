@@ -1,0 +1,14 @@
+Task 1
+
+For this workshop, we are working with abstract classes. Now in Java, we have abstract class and abstract method. Abstract class is a class which  is a restricted class that 
+cannot be used to create objects (to access it, it must be inherited from another class). Abstract method is a method which can only be used in an abstract class, and it does not 
+have a body. The body is provided by the subclass (inherited from). Using this, I created 3 different classes to calculate the area of the traingle and displaying the calculation 
+result to the user. In one class, I just created the required variables and giving them a default value. In the second class, I put the formula to calculate the area and in the third
+class, I prompt the user to put a value or use the default value for the calculation and display it to the user.
+
+
+Task 2
+
+For the second task, I just created a fourth class which kind of validate the user input. This task makes sure that the user is putting the value for the shape triangle. Otherwise 
+the program will show a message saying it is illegal or the error message. Everything is the same from task 1. And that is how I finished the workshop 3 for JAC444.
+

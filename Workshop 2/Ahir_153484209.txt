@@ -1,0 +1,40 @@
+/**********************************************
+Workshop 2
+Course: JAC444 - Fall Semester 2022
+Last Name: Ahir Ahir
+First Name: Devang
+ID: 153484209
+Section: NCC 
+This assignment represents my own work in accordance with Seneca Academic Policy.
+Signature
+Date:<submission date>
+**********************************************/
+
+
+TASK 2
+I was asked to create a program which helps me to calculate taxes. I needed to use a lot of If statements as there was options to show in the program. First options were to show if 
+the user wants personal tax to be calculated or just need the tax table. Then if the user chooses to calculate personal taxes there were more options for it. So if the user will go 
+in personal tax, it will ask the user the to choose from more options which were required for this program. So this workshop shows us how to use if statements. The other alternative
+for if is switch. In my program, I can use the switch method instead of if statement. So it will be something like
+
+
+// My code 
+int opt = scanner.nextInt();
+			if (opt == 0)
+				option1();					            
+			else if (opt == 1)
+				option2();		      	 
+
+
+		OR
+
+
+//This is the swtich statement.
+int opt = scanner.nextInt();
+switch (opt) {
+  case 0:
+    option1();
+    break;
+  case 1:
+    option2()
+    break;  					

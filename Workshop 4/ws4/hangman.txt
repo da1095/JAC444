@@ -1,0 +1,2 @@
+Another way to allow a program to be run repeatedly using a do…while loopis to include a menu of options within the loop (this was very common in the daysbefore windows and mice). The options themselves are processed by a switchstatement. One of the options in the menu list would be the option to quit and thisoption is checked in the while condition of the loop. The program below is areworking of the time table program of the previous chapter using this techniquecat boy
+the
